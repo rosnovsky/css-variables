@@ -22,14 +22,10 @@ img {
   }
 ```
 
-
-
 A way to dynamically change CSS variables values using Javascript:
 
 ```javascript
   document.documentElement.style.setProperty(`--${this.name}`, this.value + `${suffix}`);
 ```
 
-Simple video background using simple `<video autoplay loop id="video-background" muted>` tag and `background:url(videos/Ma-Vibes.mp4) bottom center;` with some more background styling and sizing.
-
->This simple JS/CSS Drumkit was inspired by @wesbos and his [#Javascript30](http://javascript30.com) challenge.
+>This simple variables trick was inspired by @wesbos and his [#Javascript30](http://javascript30.com) challenge.
