@@ -3,7 +3,7 @@
 [See in action](https://rosnovsky.github.io/css-variables/)
 
 Future improvements include:
-- Stable Safari compatibility, including color picker
+- Stable Safari compatibility, ~~including color picker~~ this is supported in Safari 10.1 out of the box.
 
 ## My favorite features
 
